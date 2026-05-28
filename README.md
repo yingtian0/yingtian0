@@ -73,11 +73,6 @@
 
 ---
 
-## Metrics
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yingtian0&theme=github_dark" />
-</p>
 
 <p align="left">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yingtian0&theme=github_dark" />
