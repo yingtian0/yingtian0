@@ -37,7 +37,7 @@
 ## Language
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,c,cpp" alt="Language" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,ruby,cpp" alt="Language" />
 </p>
 
 ---
