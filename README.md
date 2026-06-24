@@ -68,7 +68,7 @@
 ## Infra / Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" alt="Infra and Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,nginx,githubactions,linux,git" alt="Infra and Tools" />
 </p>
 
 ---
