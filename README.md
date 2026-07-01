@@ -45,7 +45,7 @@
 ## Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,mysql,postgres,redis,docker" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=go,ruby,postgres,redis,docker" alt="Backend" />
 </p>
 
 <p align="left">
@@ -68,7 +68,7 @@
 ## Infra / Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,nginx,githubactions,linux,git" alt="Infra and Tools" />
+  <img src="https://skillicons.dev/icons?i=aws,nginx,githubactions,linux,nix" alt="Infra and Tools" />
 </p>
 
 ---
