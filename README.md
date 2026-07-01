@@ -45,7 +45,7 @@
 ## Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,ruby,postgres,redis,docker" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,redis,docker" alt="Backend" />
 </p>
 
 <p align="left">
