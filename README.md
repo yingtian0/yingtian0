@@ -37,7 +37,7 @@
 ## Language
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,ruby,cpp" alt="Language" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,ruby,java,cpp" alt="Language" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,postgres,redis,docker" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=go,python,postgres,ruby,redis,docker" alt="Backend" />
 </p>
 
 <p align="left">
