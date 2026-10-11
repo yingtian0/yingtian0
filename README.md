@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yingtian0&color=blue)
 
-<h1 align="left">Yingtian🌸</h1>
+
 
 
 <p align="left">
@@ -14,14 +14,6 @@
     <img src="https://img.shields.io/badge/Qiita-yingtian0-55C500?style=flat-square&logo=qiita" />
   </a>
 </p>
-
----
-
-## Profile
-
-- 所属: 山形大学 理学部 データサイエンスコース
-- Portfolio: https://yingtian0.github.io/portfolio/
-- Interest: Backend / API Design / Performance / Security
 
 ---
 
